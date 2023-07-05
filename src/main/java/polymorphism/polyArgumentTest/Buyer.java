@@ -1,4 +1,4 @@
-package Polymorphism;
+package polymorphism.polyArgumentTest;
 
 public class Buyer {
     int money = 1000;

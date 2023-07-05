@@ -1,4 +1,4 @@
-package Polymorphism;
+package polymorphism.castingTest;
 
 public class Car {
     String color;

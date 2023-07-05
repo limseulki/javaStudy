@@ -1,4 +1,4 @@
-package Polymorphism;
+package polymorphism.polyArgumentTest;
 
 public class PolyArgumentTest {
     public static void main(String[] args) {

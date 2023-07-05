@@ -1,4 +1,4 @@
-package Polymorphism;
+package polymorphism.bindingTest;
 
 public class BindingTest {
     public static void main(String[] args) {

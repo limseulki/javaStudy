@@ -1,4 +1,4 @@
-package Polymorphism;
+package polymorphism.polyArgumentTest;
 
 public class Product {
     int price;

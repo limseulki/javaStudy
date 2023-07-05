@@ -1,4 +1,4 @@
-package Polymorphism;
+package polymorphism.bindingTest;
 
 public class Parent {
     int x = 10;

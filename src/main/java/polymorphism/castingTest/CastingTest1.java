@@ -1,4 +1,4 @@
-package Polymorphism;
+package polymorphism.castingTest;
 
 public class CastingTest1 {
     public static void main(String[] args) {
